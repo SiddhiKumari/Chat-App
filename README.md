@@ -7,8 +7,8 @@
 Both should be installed and make sure mongodb is running.
 
 ```shell
-git clone https://github.com/Prajjwal-Jaiswal/Chat-Application
-cd Chat-Application
+git clone https://github.com/SiddhiKumari/Chat-App
+cd Chat-App
 ```
 Now rename env files from .env.example to .env
 ```shell
